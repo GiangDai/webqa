@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./webquanao/venv/Lib/site-packages/sqlalchemy/orm",
+        "./webquanao/venv/Lib/site-packages"
+    ],
+    "git.ignoreLimitWarning": true
+}
